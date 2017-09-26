@@ -1,0 +1,179 @@
+nohup: ignoring input
+{
+
+  Pre-loading image asins from /root/share/cx/amazon_baseline_data/CDs/image_features_CDs_and_Vinyl.b  ..................................................
+  Loading votes from /root/share/cx/amazon_baseline_data/CDs/bpr_data/bpr_whole.txt,/root/share/cx/amazon_baseline_data/CDs/bpr_data/bpr_train.txt,/root/share/cx/amazon_baseline_data/CDs/bpr_data/bpr_test.txt, userMin = -1, itemMin = -1  ..............................
+
+  Generating 0 votes data 
+  Generating 1 votes data 
+  Generating 2 votes data 
+  Loading image features from /root/share/cx/amazon_baseline_data/CDs/image_features_CDs_and_Vinyl.b  ......
+
+  "nUsers": 75258, "nItems": 64149, "nVotes": 1092605
+
+  "nTrainUsers": 75258, "nTrainItems": 64128, "nTrainVotes": 800480
+
+  "nTestUsers": 75109, "nTestItems": 58803, "nTestVotes": 292125
+
+<<< VBPR__K_400_K2_10_lambda_0.00_lambda2_0.001000_biasReg_0.00 >>>
+
+Iter: 1, took 66.293966
+Test P = 0.000598, Test Std = 0.003798
+Iter: 2, took 69.709312
+Test P = 0.000570, Test Std = 0.003738
+Iter: 3, took 87.340474
+Test P = 0.000601, Test Std = 0.003836
+Iter: 4, took 67.960695
+Test P = 0.000589, Test Std = 0.003821
+Iter: 5, took 68.945992
+Test P = 0.000631, Test Std = 0.004014
+Iter: 6, took 91.638505
+Test P = 0.000703, Test Std = 0.004225
+Iter: 7, took 85.098921
+Test P = 0.000682, Test Std = 0.004174
+Iter: 8, took 70.441555
+Test P = 0.000656, Test Std = 0.004082
+Iter: 9, took 87.175804
+Test P = 0.000640, Test Std = 0.004066
+Iter: 10, took 84.553045
+Test P = 0.000602, Test Std = 0.003961
+Iter: 11, took 66.865211
+Test P = 0.000639, Test Std = 0.004021
+Iter: 12, took 68.256915
+Test P = 0.000643, Test Std = 0.004013
+Iter: 13, took 86.630449
+Test P = 0.000664, Test Std = 0.004128
+Iter: 14, took 67.598102
+Test P = 0.000672, Test Std = 0.004155
+Iter: 15, took 71.323716
+Test P = 0.000636, Test Std = 0.004066
+Iter: 16, took 265.964041
+Test P = 0.000687, Test Std = 0.004239
+Iter: 17, took 316.076562
+Test P = 0.000677, Test Std = 0.004186
+Iter: 18, took 322.133510
+Test P = 0.000655, Test Std = 0.004105
+Iter: 19, took 169.138796
+Test P = 0.000639, Test Std = 0.004004
+Iter: 20, took 248.295206
+Test P = 0.000646, Test Std = 0.004069
+Iter: 21, took 123.556753
+Test P = 0.000714, Test Std = 0.004282
+Iter: 22, took 201.380172
+Test P = 0.000743, Test Std = 0.004317
+Iter: 23, took 463.237678
+Test P = 0.000705, Test Std = 0.004229
+Iter: 24, took 236.101656
+Test P = 0.000678, Test Std = 0.004089
+Iter: 25, took 243.527901
+Test P = 0.000680, Test Std = 0.004121
+Iter: 26, took 552.703356
+Test P = 0.000727, Test Std = 0.004342
+Iter: 27, took 277.070809
+Test P = 0.000696, Test Std = 0.004269
+Iter: 28, took 121.083481
+Test P = 0.000716, Test Std = 0.004343
+Iter: 29, took 78.429542
+Test P = 0.000634, Test Std = 0.003985
+Iter: 30, took 173.110756
+Test P = 0.000700, Test Std = 0.004257
+Iter: 31, took 196.329084
+Test P = 0.000684, Test Std = 0.004245
+Iter: 32, took 260.789767
+Test P = 0.000706, Test Std = 0.004279
+Iter: 33, took 224.659575
+Test P = 0.000745, Test Std = 0.004514
+Iter: 34, took 345.795630
+Test P = 0.000712, Test Std = 0.004375
+Iter: 35, took 254.981248
+Test P = 0.000692, Test Std = 0.004351
+Iter: 36, took 227.444405
+Test P = 0.000646, Test Std = 0.004082
+Iter: 37, took 102.532933
+Test P = 0.000716, Test Std = 0.004417
+Iter: 38, took 164.491958
+Test P = 0.000708, Test Std = 0.004412
+Iter: 39, took 198.435596
+Test P = 0.000696, Test Std = 0.004402
+Iter: 40, took 218.135566
+Test P = 0.000705, Test Std = 0.004444
+Iter: 41, took 377.071604
+Test P = 0.000681, Test Std = 0.004322
+Iter: 42, took 310.043732
+Test P = 0.000702, Test Std = 0.004314
+Iter: 43, took 280.072118
+Test P = 0.000729, Test Std = 0.004609
+Iter: 44, took 251.526135
+Test P = 0.000727, Test Std = 0.004559
+Iter: 45, took 114.954479
+Test P = 0.000703, Test Std = 0.004387
+Iter: 46, took 106.304962
+Test P = 0.000719, Test Std = 0.004497
+Iter: 47, took 118.823329
+Test P = 0.000679, Test Std = 0.004295
+Iter: 48, took 168.013693
+Test P = 0.000692, Test Std = 0.004455
+Iter: 49, took 179.886622
+Test P = 0.000725, Test Std = 0.004577
+Iter: 50, took 128.557137
+Test P = 0.000724, Test Std = 0.004586
+
+ All recommend items saved.
+ Purchased items in the test dataset saved.
+ Purchased items in the train dataset saved.
+
+ === [All Item]: Test P = 0.000749, Test Std = 0.004489
+
+Model saved to CDs__VBPR__K_400_K2_10_lambda_0.00_lambda2_0.001000_biasReg_0.00.txt.
+}
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109
+75109

@@ -1,0 +1,37 @@
+ompile using "make".
+
+
+Run:
+
+./train whole_data train_data test_data image_file latent_factor visual factor na lambda_reg lambda2_reg bias_reg epoch iteration output_path
+
+
+
+
+" 1. Whole file path\n"
+" 2. Train file path\n"
+" 3. Test file path\n"
+" 4. Img feature path\n"
+" 5. Latent Feature Dim. (K)\n"
+" 6. Visual Feature Dim. (K')\n"
+" 7. alpha (for WRMF only)\n"
+" 8. biasReg (regularizer for bias terms)\n"
+" 9. lambda  (regularizer for general terms)\n"
+" 10. lambda2 (regularizer for \"sparse\" terms)\n"
+" 11. #Epoch (number of epochs) \n"
+" 12. Max #iter \n"
+" 13. Corpus/Category name under \"Clothing Shoes & Jewelry\" (e.g. Women)\n\n"
+
+
+
+
+
+Data format:
+
+
+user item rating time word_number words
+
+e.g.
+
+A1Z59RFKN0M5QL 7806397051 1.0 1376611200 23 please dont rachett palette size picture colors sheer slides face wax dont expect  makeup stay put spend money good stuff 2 thumbs
+
