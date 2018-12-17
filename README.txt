@@ -30,7 +30,7 @@ Requirements
 
 Data Preparation
 
-  o Note: the already splited dataset used in this paper can be downloaded from the following link:
+  o Note: the already splitted dataset used in this paper can be downloaded from the following link:
     https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0. 
     If you want to process new datasets, please follow the instructions below.
 
