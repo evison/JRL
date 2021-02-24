@@ -31,7 +31,13 @@ Requirements
 Data Preparation
 
   o Note: the already splitted dataset used in this paper can be downloaded from the following link:
-    https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0. 
+
+	https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0. 
+    
+    If the above link doesn't work, please click the following one:
+    
+    	https://drive.google.com/drive/folders/1RG_izwfdXrjTUkIlnRnp4dp1f2Mk33L6?usp=sharing
+    
     If you want to process new datasets, please follow the instructions below.
 
   o Download Amazon review datasets from http://jmcauley.ucsd.edu/data/amazon/.
