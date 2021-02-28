@@ -1,5 +1,10 @@
 Overview
 
+An updated version of the repository is availabe at:
+
+https://github.com/QingyaoAi/Joint-Representation-Learning-for-Top-N-Recommendation
+
+------------------------------------
 This is an implementation of the Joint Representation Learning Model (JRLM) for product
 recommendation based on heterogeneous information sources [2].  Please cite the following
 paper if you plan to use it for your project：
