@@ -1,3 +1,8 @@
 All processed and well-organized datasets used by the code can be downloaded from the following URL:
 
 https://www.dropbox.com/s/th672ttebwxhsfx/CIKM2017.zip?dl=0
+
+If the above link doesn't work, please click the following one:
+    
+https://drive.google.com/drive/folders/1RG_izwfdXrjTUkIlnRnp4dp1f2Mk33L6?usp=sharing
+    
